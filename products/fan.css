@@ -145,6 +145,12 @@
   .mrgntp{
     margin-top: 68px;
   }
+  .mrgntp a{
+    padding: 6px 12px;
+    background-color: #ddd;
+    border-radius: 3px;
+    text-decoration: none;
+  }
 
   .container{
     width: 90%;
